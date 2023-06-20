@@ -111,7 +111,7 @@ const mechBooks = (props) => {
                   Vehicle Model : {val["book"][0]["vModel"]}
                 </h1>
                 <h1 className="text-2xl font-bold py-4">
-                  Vehicle No : {val["book"][0]["vNo"]}
+                  Vehicle No : {val["book"][0]["vNo"]} l
                 </h1>
                
                 <h1 className="text-2xl font-bold py-4">
