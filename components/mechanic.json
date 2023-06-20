@@ -1,0 +1,258 @@
+{
+    "mechanics":
+    [
+
+        {
+            "name":"MARUTI SUZUKI",
+            "phone":"9876543210",
+            "place":"Visakhapatnam",
+            "adress":"49-52-1/4/2 Opp.HNR Vihar Apartments, 80 Feet Rd, Visakhapatnam, Andhra Pradesh 530016"
+        },
+        
+        {
+            "name":"RESHAM AUTO WORKS",
+            "phone":"9533468179",
+            "place":"Visakhapatnam",
+            "adress":"31, S Jail Rd, Bangaramma Metta, Railway Quarters, Mahaarajupeta, Visakhapatnam, Andhra Pradesh 530004"
+        },
+        {
+            "name":"VIZAG AUTO SERVICES",
+            "phone":" 9848291574",
+            "place":"Visakhapatnam",
+            "adress":"Block-b, Autonagar, Plot No 18, Old Gajuwaka, Auto Nagar, Visakhapatnam, Andhra Pradesh 530012"
+        },
+        {
+            "name":"SRINIVASA AUTO WORKS",
+            "phone":"9440301246",
+            "place":"Visakhapatnam",
+            "adress":"44-1-18/1, Akkayyapalem Main Rd, Near By Union Bank, Lalitha Nagar, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016"
+        },
+        {
+            "name":"SURESH CAR SHED",
+            "phone":"9493171730",
+            "place":"Visakhapatnam",
+            "adress":"Ramachandra Nagar, P & T Colony, Thatichetlapalem, Seethammadara, Visakhapatnam, Andhra Pradesh 530016"
+        },
+        {
+            "name":"GO MECHANIC",
+            "phone":"8398970970",
+            "place":"Visakhapatnam",
+            "adress":"Door no 50-121, 78/4, NH16, Karthikeya Enclave, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013"
+        },
+        {
+            "name":"SUMAN",
+            "phone":"6304703518",
+            "place":"Visakhapatnam",
+            "adress":"Shop 4, Saibrudhvan-II, Madhuranagar, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530020"
+        },
+        {
+            "name":"GO-MECHANIC-ECLAT-AUTOMOBILES",
+            "phone":"8398970970",
+            "place":"Visakhapatnam",
+            "adress":" TPT Colony, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013"
+        },
+        {
+            "name":"AUTO-STAR",
+            "phone":"8977891232",
+            "place":"Visakhapatnam",
+            "adress":"near kshatriya kalyana mandapam, Seethammadara, Visakhapatnam, Andhra Pradesh 530041"
+        },
+        {
+            "name":"SRI KANAKA DURGA AUTO MECHANICS",
+            "phone":"9550299956",
+            "place":"Visakhapatnam",
+            "adress":" P7MJ+W25, National Highway 16, Main Road, near by sri kanaka durga auto mechanics, Thkkavanipalem, Kancharapalem, Visakhapatnam, Andhra Pradesh 530008"
+        },
+        {
+            "name":"ADI SHANKARA AUTOMOBILE WORKS",
+            "phone":"8795642316",
+            "place":"Visakhapatnam",
+            "adress":" OPP: GUPTA MEDICALS, beside MED PLUS, Abid Nagar, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016"
+        },
+        {
+            "name":"Tirumala Auto Electrical",
+            "phone":"8977891232",
+            "place":"Visakhapatnam",
+            "adress":"26-1-4, Bowdara Rd, near Ramakrishna Theatre Junction, Daba Gardens, Jagadamba Junction, Visakhapatnam, Andhra Pradesh 530001"
+        },
+        {
+            "name":"GANESH BIKE WORKS",
+            "phone":"9032147543",
+            "place":"Visakhapatnam",
+            "adress":"P8P5+525, Seethammapeta Main Rd, Ganesh Nagar, Santhipuram, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016"
+        },
+        {
+            "name":"SRI AYYAPPA BIKE SERVICE POINT",
+            "phone":"9985866672",
+            "place":"Visakhapatnam",
+            "adress":"Shop No.53-9-180, RTC Complex, Near By Main Road, Ashok Nagar, Asilmetta, Visakhapatnam, Andhra Pradesh 530020"
+        },
+        {
+            "name":"VALVOLINE BIKE XPERT - JANCY MECHANIC WORKS",
+            "phone":"7863672185",
+            "place":"Visakhapatnam",
+            "adress":"MVP Main Rd, Sector- 6, MVP Colony, Visakhapatnam, Andhra Pradesh 530017"
+        },
+        {
+            "name":"JAI CAR AC WORKS & CAR SOUND SYSTEM",
+            "phone":"7863672185",
+            "place":"Visakhapatnam",
+            "adress":"Sector 11, MVP Colony, Visakhapatnam, Andhra Pradesh 530017"
+        },
+        {
+            "name":"VIJAY CAR CARE",
+            "phone":"8975432106",
+            "place":"Visakhapatnam",
+            "adress":"36-21-1/2, Reddy Kancharapalem, Gavara Kanchara Palem, Kancharapalem, Visakhapatnam, Andhra Pradesh 530008"
+        },
+        {
+            "name":"SRI SAMBHAVI CAR CARE",
+            "phone":"9553322099",
+            "place":"Visakhapatnam",
+            "adress":"Shop No.6, Setuis Complex Service Rd , Main Rd Opp. BHPV Gate, Akkireddypalem, Visakhapatnam, Andhra Pradesh 530012"
+        },
+        {
+            "name":"COOL CREATORS",
+            "phone":"7382272186",
+            "place":"Visakhapatnam",
+            "adress":"50-79-11 A/1,Shivalayam Arch,Ganesh Nagar, Seethammapeta Main Rd, Visakhapatnam, Andhra Pradesh 530016"
+        },
+        {
+            "name":"BALAJI MECHANIC WORKS",
+            "phone":"9866125213",
+            "place":"Visakhapatnam",
+            "adress":"Akkayyapalem Main Rd, near yarukumamba temple, Dondaparthy, Railway New Colony, Visakhapatnam, Andhra Pradesh 530016"
+        },
+        {
+            "name":"KIRAN MARUTI CARE",
+            "phone":"9440190904",
+            "place":"Visakhapatnam",
+            "adress":"gurudwara Santhipuram 50-94-24, Andhra Pradesh 530016"
+        },
+        {
+            "name":"VEERABAU GARAGE",
+            "phone":"9492991730",
+            "place":"Bengaluru",
+            "adress":"191, 7th Cross Rd, Thyagaraja Nagar, Banashankari, Bengaluru, Karnataka 560070"
+         },
+
+         {
+            "name":"SRINU MECHANIC SHOP",
+            "phone":"9877891232",
+            "place":"Bengaluru",
+            "adress":" XH5M+HXJ, H Siddha Rd, Vinobha Nagar, Sudhama Nagar, Bengaluru, Karnataka 560027"
+         },
+           
+         {
+            "name":"PERFECT SERVICES",
+            "phone":"9900123313",
+            "place":"Bengaluru",
+            "adress":"post ner bbmp, 67, Dasarahalli Main Rd, off Hebbal, Nagavara, Bengaluru, Karnataka 560024"
+         },
+           
+         {
+            "name":"GO-MECHANIC-SHIFT AUTO",
+            "phone":"8398970970",
+            "place":"Bengaluru",
+            "adress":"post ner bbmp, 67, Dasarahalli Main Rd, off Hebbal, Nagavara, Bengaluru, Karnataka 560024"
+         },
+           
+         {
+            "name":"BABU AUTO GARAGE",
+            "phone":"08796452981",
+            "place":"Bengaluru",
+            "adress":"#168 24th B cross, Krishna Rajendra Rd, Karesandra, Bengaluru, Karnataka 560070"
+         },
+         {
+            "name":"GOMECHANIC - CAR REPAIR SHOP BANGALORE",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"Srinivasa Nagar, AECS Layout, Singasandra, Bengaluru, Karnataka 560068"
+         },
+         {
+            "name":"GOMECHANIC - BANGALORE CAR CARE",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"#17, 17th Cross Rd, 2nd Stage, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038"
+         },
+         {
+            "name":"GOMECHANIC - BANGALORE (H.Q.)",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"No. 53, 4th Block 5th Cross, 100 Feet Rd, behind Sony World Signal, On, Koramangala Extension, Bengaluru, Karnataka 560034"
+         },
+         {
+            "name":"GoMechanic - Y Z Car Care",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"Unnamed Road, Anugraha Layout, Bommanahalli, Bengaluru, Karnataka 560076"
+         },
+         {
+            "name":"Bookmycarservice.in - Multibrand Car Service & Car Repair",
+            "phone":"09986800200",
+            "place":"Bengaluru",
+            "adress":"Mahadevpura, 68, 3rd Main Rd, opp. V.S.T, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048"
+         },
+
+         {
+            "name":"GoMechanic - Bangalore Service Center",
+            "phone":"083989 7097",
+            "place":"Bengaluru",
+            "adress":"no 13, 1, 14th Main Rd, 3rd Stage, Rajajinagar, Bengaluru, Karnataka 560021 "
+         },
+         {
+            "name":"GoMechanic - Shift Auto",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"10M-261/A, 100 Feet Rd, HRBR Layout 1st Block, Bapunagar, HRBR Layout, Banaswadi, Bengaluru, Karnataka 560043 "
+         },
+         {
+            "name":"AQSA AUTO GARAGE",
+            "phone":"08946329067",
+            "place":"Bengaluru",
+            "adress":"Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560005 "
+         },
+         {
+            "name":"GOMECHANIC - BANGALORE MOTORS",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"15 Park Road Tasker Tn, Shivaji Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001"
+         },
+         {
+            "name":"GOMECHANIC - CAR SERVICE WORKSHOP BANGALORE",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"Hosur Road Garvebhavipalya, Bommanahalli, Bengaluru, Karnataka 560068"
+         },
+         {
+            "name":"GOMECHANIC - CAR MECHANIC & REPAIR WORKS, BENGALURU",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"St John's Cross Rd, Kaveri Layout, S.G. Palya, Bengaluru, Karnataka 560029"
+         },
+         {
+            "name":"CAR MEDICS",
+            "phone":"09538594763",
+            "place":"Bengaluru",
+            "adress":"No.20 Niranthara Layout, Kattigenahalli, Bagaluru Main Road, Bengaluru 560063 560063, Bengaluru, Karnataka 560063"
+         },
+         {
+            "name":"GoMechanic - Car Repair Bangalore",
+            "phone":"08398970970",
+            "place":"Bengaluru",
+            "adress":"Srinivagilu Main Rd, Venkappa Garden, Ejipura, Bengaluru, Karnataka 560047"
+         },
+         {
+            "name":"Alphation Auto",
+            "phone":"06364312143",
+            "place":"Bengaluru",
+            "adress":"No.77/6, Next to Geetanjali School Doddakanehalli, Main, Road, Panathur, Bengaluru, Karnataka 560103"
+         },
+         {
+            "name":"R-N CAR MECHANIC",
+            "phone":"7651894905",
+            "place":"Bengaluru",
+            "adress":"r Takes Town, 29, Chick Bazar Road, Queens Rd, near M.M complex, Bengaluru, Karnataka 560051"
+         }
+    ]
+}
